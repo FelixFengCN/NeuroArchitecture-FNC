@@ -33,7 +33,7 @@ The following source datasets and atlases are relevant for independently reconst
 | NeuroMark functional network atlas (53 ICNs) | [NeuroMark / GIFT](http://trendscenter.org/software/gift) |
 | 24 cortical cell-type maps | [Feng et al. / Cellular and molecular associations with intrinsic brain organization](https://trendscenter.org/data/) |
 | 19 neurotransmitter receptor/transporter maps | [Hansen et al. / Mapping neurotransmitter systems to the structural and functional organization of the human neocortex](https://github.com/netneurolab/hansen_receptors) |
-| Six mitochondrial maps | [Mosharov et al. / A human brain map of mitochondrial respiratory capacity and diversity](https://neurovault.org/collections/16418/)
+| Six mitochondrial maps | [Mosharov et al. / A human brain map of mitochondrial respiratory capacity and diversity](https://neurovault.org/collections/16418/) |
 
 The original, spatially prepared NIfTI maps used in S1 are not redistributed. Reconstructing the same inputs from the source atlases may require additional spatial processing, reference mapping, and compliance with the original data providers' access conditions.
 
@@ -55,11 +55,24 @@ Individual-level FNC data from healthy participants and patients are not redistr
 
 To reconstruct the neurobiological networks from source NIfTI maps, configure the external atlas directories and run S1 first. Normative-model reconstruction requires the original participant-level FNC and covariates, which must be obtained separately under the relevant data-use agreements.
 
-## Requirements
+## Software Requirements
 
-- MATLAB and SPM12
-- R (`relaimpo`, `R.matlab`, `tidyverse`, `foreach`, `doParallel`)
-- Python with PCNtoolkit 0.30.post2 for normative modeling
+The analyses were performed using the following software and package versions:
+
+**MATLAB**
+- MATLAB R2024b
+- SPM12
+
+**R**
+- R 4.5.0 development version (2025-02-15, revision 87726)
+- `relaimpo` 2.2.7
+- `R.matlab`, `foreach`, `doParallel`, `parallel`
+
+R analyses were executed within a Singularity container using the software versions listed above.
+
+**Python**
+- PCNtoolkit 0.30.post2
+- NumPy, pandas, and SciPy
 
 ## Citation
 
