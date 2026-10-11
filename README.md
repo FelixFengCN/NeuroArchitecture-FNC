@@ -31,7 +31,7 @@ The following source datasets and atlases are relevant for independently reconst
 | Data | Source |
 |---|---|
 | NeuroMark functional network atlas (53 ICNs) | [NeuroMark / GIFT](https://trendscenter.org/data/) |
-| 24 cortical cell-type maps | [Feng et al. / Cellular and molecular associations with intrinsic brain organization] (https://trendscenter.org/data/) |
+| 24 cortical cell-type maps | [Feng et al. / Cellular and molecular associations with intrinsic brain organization](https://trendscenter.org/data/) |
 | 19 neurotransmitter receptor/transporter maps | [Hansen et al. / Mapping neurotransmitter systems to the structural and functional organization of the human neocortex](https://github.com/netneurolab/hansen_receptors) |
 | Six mitochondrial maps | [Mosharov et al. / A human brain map of mitochondrial respiratory capacity and diversity](https://neurovault.org/collections/16418/)
 
