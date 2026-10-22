@@ -4,7 +4,6 @@ This repository contains code and processed data associated with the manuscript:
 
 **From micro-architecture to networks: canonical neurobiological architecture of functional brain organization across the lifespan and in psychopathology**
 
-*Manuscript under consideration at Nature Biomedical Engineering.*
 
 ## Overview
 
@@ -78,4 +77,3 @@ R analyses were executed within a Singularity container using the software versi
 
 *From micro-architecture to networks: canonical neurobiological architecture of functional brain organization across the lifespan and in psychopathology.*
 
-Nature Biomedical Engineering (manuscript under consideration).
