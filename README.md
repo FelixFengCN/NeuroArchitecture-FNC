@@ -4,7 +4,7 @@ This repository contains code and processed data associated with the manuscript:
 
 **From micro-architecture to networks: canonical neurobiological architecture of functional brain organization across the lifespan and in psychopathology**
 
-**DOI:** [10.5281/zenodo.23573340](https://doi.org/10.5281/zenodo.23573340)
+**Zenodo DOI:** https://doi.org/10.5281/zenodo.23573340
 
 
 ## Overview
@@ -74,6 +74,16 @@ R analyses were executed within a Singularity container using the software versi
 **Python**
 - PCNtoolkit 0.30.post2
 - NumPy, pandas, and SciPy
+
+
+## Citation
+
+If you use the code or processed data provided in this repository, please cite:
+
+*From micro-architecture to networks: canonical neurobiological architecture of functional brain organization across the lifespan and in psychopathology.* Zenodo (2026). https://doi.org/10.5281/zenodo.23573340
+
+**DOI:** [10.5281/zenodo.23573340](https://doi.org/10.5281/zenodo.23573340)
+
 
 ## Citation
 
