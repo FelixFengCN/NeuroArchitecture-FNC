@@ -85,7 +85,3 @@ If you use the code or processed data provided in this repository, please cite:
 **DOI:** [10.5281/zenodo.23573340](https://doi.org/10.5281/zenodo.23573340)
 
 
-## Citation
-
-*From micro-architecture to networks: canonical neurobiological architecture of functional brain organization across the lifespan and in psychopathology.*
-
