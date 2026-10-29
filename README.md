@@ -6,7 +6,7 @@
 This repository contains code and processed data associated with the manuscript:
 
 **From micro-architecture to networks: canonical neurobiological architecture of functional brain organization across the lifespan and in psychopathology**
-
+**Preprint DOI:** https://doi.org/10.64898/2026.10.22.761188
 ## Overview
 
 This study examines the spatial correspondence between functional network connectivity (FNC) and 49 neurobiological markers, including 24 cortical cell types, 19 neurotransmitter receptors and transporters, and 6 mitochondrial markers, across the human lifespan and in psychopathology.
